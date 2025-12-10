@@ -8,3 +8,4 @@ tifffile
 imagecodecs
 jupyterlab
 pandas
+ipywidgets
