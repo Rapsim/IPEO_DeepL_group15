@@ -7,3 +7,4 @@ tqdm
 tifffile
 imagecodecs
 jupyterlab
+pandas
