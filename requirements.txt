@@ -9,3 +9,5 @@ imagecodecs
 jupyterlab
 pandas
 ipywidgets
+imagecodecs
+segmentation-models-pytorch
